@@ -3,8 +3,8 @@
 
 ## SAP Commerce <!-- omit in toc -->
 
-**Version 24.1.0**
-February 2024
+**Version 24.1.1**
+June 2024
 
 ## Contents <!-- omit in toc -->
 <!-- TOC -->
@@ -160,6 +160,7 @@ February 2024
 | March 2021    | 3.1.0                        | - SAP Commerce upgrade to 2005 |
 | March 2021    | 3.2.0                        | - SAP Commerce upgrade to 2011 |
 | February 2024 | 24.1.0                       | - Upgraded Cybersource REST Client SDK to version 0.0.58 |
+| June 2024     | 24.1.1                       | - Upgraded Nimbus JOSE+JWT to version 9.37.2|
 
 ### Audience and Purpose
 
@@ -310,7 +311,7 @@ All technical installation concepts in this document are initial draft provided 
 The following components are required:
 
 1. SAP Commerce platform release v2011
-2. sap-commerce-payment-plugin-24.1.0.zip
+2. sap-commerce-payment-plugin-24.1.1.zip
 3. Java 11
 4. Required Dependencies installed in maven repository
 

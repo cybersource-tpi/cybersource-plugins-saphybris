@@ -2,8 +2,8 @@
 
 ## CJL - Core Java Library <!-- omit in toc -->
 
-**Version 24.1.0**
-February 2024
+**Version 24.1.1**
+June 2024
 
 ## Contents <!-- omit in toc -->
 
